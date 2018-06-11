@@ -4,7 +4,7 @@ for n in range(0,10000):
     while n>0:
         n=n//10
         c=c+1
-
+print("\nhey yo")
     n=num
     s=0
     while n:
